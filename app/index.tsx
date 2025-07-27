@@ -5,7 +5,7 @@ import { ThemedText } from "@/components/ThemedText";
 export default function HomeScreen() {
   return (
     <View>
-      <ThemedText>Hello World</ThemedText>
+      <ThemedText>Hello World!</ThemedText>
     </View>
   );
 }
